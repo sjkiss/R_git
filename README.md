@@ -10,3 +10,5 @@ Test
 ## Now I am adding a second section
 
 Making some changes on branch testing. 
+
+Adding some more changes to check merging.
