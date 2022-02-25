@@ -11,11 +11,8 @@ Test
 
 Making some changes on branch testing. 
 
-
 Adding some more changes to check merging.
 
-
-
-
 This adds some lines.
->>>>>>> testing
+
+Now adding some more lines. 
